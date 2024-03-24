@@ -13,7 +13,7 @@
 - 👨‍💻 Ingeniero Informático en Desarrollo | Apasionado por la Innovación Tecnológica 
 - Aprendizaje continuo en el tiempo libre.
 - Actualmente aprendiendo desarrollo web por cuenta propia.
-- Actualmente estoy abierto a oportunidades de prácticas profesionales o nuevos empleos, este es [mi CV]([https://read.cv/0xabdulkhalid](https://github.com/GastMolina267/GastMolina267))
+- Actualmente estoy abierto a oportunidades de prácticas profesionales o nuevos empleos, este es [mi CV](https://github.com/GastMolina267/GastMolina267)
 
 <br><br>
 
