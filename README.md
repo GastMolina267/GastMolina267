@@ -4,18 +4,18 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Córdoba-+|+-Argentina&hearts;++;Desarrollador+Front-End+Autodidacta;Estudiante+de+Ingeniería+Informática;Principiante+en+CTF;Estudiante/Investigador+Activo;Amo+aprender+cosas+nuevas...y+el+café<3"></a>
 </p>
-<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Algo sobre mí**
 
 <br>
-
-- 👨‍💻 Ingeniero Informático en Desarrollo | Apasionado por la Innovación Tecnológica 
-- Aprendizaje continuo en el tiempo libre.
-- Actualmente aprendiendo desarrollo web por cuenta propia.
-- Actualmente estoy abierto a oportunidades de prácticas profesionales o nuevos empleos, este es [mi CV](https://github.com/GastMolina267/GastMolina267)
-
-<br><br>
+<pre>
+💻 Ingeniero Informático en Desarrollo | Apasionado por la Innovación Tecnológica 
+📚 Estudiante de la Universidad Blas Pascal
+📝 Aprendizaje continuo en el tiempo libre.
+🌟 Lenguajes Principales: C++ y Python
+🚩 Interesado en el desarrollo de Aprendizaje Automático
+</pre>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -30,8 +30,7 @@
     ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
+ 
     
 - **Desarrollo Front-End**:
 
@@ -39,13 +38,11 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
 
 - **Hosting en la Nube**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
 
 - **Softwares y Herramientas**:
 
@@ -55,7 +52,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
 
 - **Extras**:
 
@@ -65,7 +61,6 @@
 
 </p>
 
-<br>
 <br>
 
 -----
