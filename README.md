@@ -2,10 +2,10 @@
 <h1 align="center"><b>¡Hola! Gastón T. Molina reportándose </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Córdoba-+|+-Argentina&hearts;++;Desarrollador+Front-End+Autodidacta;Estudiante+de+Ingeniería+Informática;Principiante+en+CTF;Estudiante/Investigador+Activo;Amo+aprender+cosas+nuevas...y+el+café<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Córdoba-+|+-Argentina+&hearts;++;Desarrollador+Front-End+Autodidacta;Estudiante+de+Ingeniería+Informática;Estudiante/Investigador+Activo;Amo+aprender+cosas+nuevas...y+el+café<3"></a>
 </p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Algo sobre mí**
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> **Algo sobre mí**
 
 <br>
 <pre>
