@@ -1,10 +1,9 @@
-
 <h1 align="center"><b>¡Hola! Gastón T. Molina reportándose </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Córdoba-+|+-Argentina+&hearts;++;Desarrollador+Front-End+Autodidacta;Estudiante+de+Ingeniería+Informática;Estudiante/Investigador+Activo;Amo+aprender+cosas+nuevas...y+el+café<3"></a>
 </p>
-	
+
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> **Algo sobre mí**
 
 <br>
@@ -13,7 +12,7 @@
 📚 Estudiante de la Universidad Blas Pascal
 📝 Aprendizaje continuo en el tiempo libre.
 🌟 Lenguajes Principales: C++ y Python
-🚩 Interesado en el desarrollo de Aprendizaje Automático
+🚩 Interesado en el desarrollo de Machine Learning y el Data Science
 </pre>
 <br>
 
@@ -30,19 +29,16 @@
     ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
- 
-    
+
 - **Desarrollo Front-End**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 - **Hosting en la Nube**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 
 - **Softwares y Herramientas**:
 
@@ -51,15 +47,17 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+- **Lenguajes de Bases de Datos**:
+
+    ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
 
 <br>
 
